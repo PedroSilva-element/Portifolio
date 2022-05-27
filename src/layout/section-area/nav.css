@@ -1,0 +1,9 @@
+.list-nav{
+    list-style: none;
+    text-transform: uppercase;
+    margin: 0px 0px 0px 70%;
+}
+.list-nav li{
+    display: inline-block;
+    padding: 2%;
+}
