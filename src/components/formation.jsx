@@ -1,9 +1,9 @@
 
 const Formation = () => {
-    return(
-        <>
-        <h1>Formation</h1>
-        </>
+    return (
+        <article>
+            <h1>Formação</h1>
+        </article>
     );
 };
 export default Formation;
